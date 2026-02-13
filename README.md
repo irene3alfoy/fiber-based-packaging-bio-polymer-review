@@ -57,22 +57,20 @@ This research supports the transition toward eco-friendly packaging solutions th
 ---
 
 ## 📷 Project Visual Summary
-
 ### Problem Statement
-![Problem Statement](Images/problem-statement.jpg)
+![Problem Statement](images/problem-statement.jpg)
 
 ### Research Methodology
-![Methodology](Images/research-methodology.jpg)
+![Methodology](images/research-methodology.jpg)
 
 ### Food Safety Evaluation
-![Food Safety](Images/food-safety-evaluation.jpg)
+![Food Safety](images/food-safety-evaluation.jpg)
 
 ### Key Outcomes
-![Outcomes](Images/technical-outcomes.jpg)
+![Outcomes](images/technical-outcomes.jpg)
 
 ### Conclusion
-![Conclusion](Images/project-conclusion.jpg)
-
+![Conclusion](images/project-conclusion.jpg)
 ---
 
 ## 🧠 Skills Applied
